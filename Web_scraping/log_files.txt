@@ -1,0 +1,2 @@
+INFO:root:You did it
+ERROR:root:Not your fault
